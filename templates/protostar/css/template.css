@@ -214,7 +214,7 @@ body {
 	font-size: 13px;
 	line-height: 18px;
 	color: #333;
-	background-color: #fff;
+	background-color: blue !important;
 }
 a {
 	color: #005e8d;
